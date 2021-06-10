@@ -1,4 +1,4 @@
 # dll-snippet
 
-Some C++/C# source code snippet which used to be useful to me ~
+A little C++/C# source code snippets solving some tricky stuff
 
